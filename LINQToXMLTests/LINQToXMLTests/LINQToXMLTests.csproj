@@ -65,6 +65,7 @@
     <Compile Include="TestMaxOrderMoreThanX.cs" />
     <Compile Include="Sorting.cs" />
     <Compile Include="TestSomethingWrong.cs" />
+    <Compile Include="GroupByCityAndGetRentIntense.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
